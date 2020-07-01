@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.mos{
+    color: rgb(207, 48, 75);
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+.mama{
+    font-size: 50px;
+}
+p{
+    color: gray;
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+    
+}
+.half img{
+    width: 100%;
+}
+.top{
+    background-image: url("kaka/header-bg.png");
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 700px;
+    padding-bottom: 170px;
+}
+.button{
+     text-decoration: none;
+     background-image: linear-gradient(rgb(194, 34, 60),tomato);
+     color: white;
+     border-radius: 5px;
+     font-weight: 800;
+     padding: 10px 30px;
+}
+.Second{
+    background-image: url("kaka/biography-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.Middle{
+    background-image: url("kaka/latest-work-bg.png");
+    background-repeat: no-repeat;
+    
+    width: 80%;
+    margin:0 auto;
+}
+.Middle h1{
+    text-align: center;
+    
+    padding-top:200px ;
+
+}
+.Different{
+    width:23% ;
+    padding-left: 3%;
+    float: left;
+    padding-top: 50px;
+}
+.Different img{
+    width:100%;
+
+}
+.last h1{
+    text-align: center;
+    padding-bottom: 100px;
+}
+#kaw p{
+    
+    text-align: center;
+    
+    
+}
+.end{
+    
+     border-radius: 5px;
+     color: white;
+     padding: 50px 0px;
+     margin:0 auto;
+     width: 50%;
+     background-color:pink;
+
+}
+.last{
+    background-image: url(kaka/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.end a{
+    text-decoration: none;
+    color: white;
+    font-weight: 800;
+
+
+}
+.end p{
+    color: white;
+}
+
